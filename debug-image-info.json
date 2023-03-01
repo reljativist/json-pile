@@ -45,6 +45,8 @@
     "height": 0.5,
     "content_id": "presentation",
     "content_type": "video",
+    "content_width" : 0.5,
+    "content_height" : 0.28125,
     "content_link": "https://developer.augmented.city/media/video/moscow.mp4"
   },
   {
