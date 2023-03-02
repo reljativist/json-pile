@@ -53,6 +53,7 @@
     "image_id": "861ed4ce-bcdd-4ee7-ba88-f243d8d344ef",
     "width": 0.5,
     "height": 0.5,
+    "content_width" : 0.5,
     "content_id": "presentation",
     "content_type": "video",
     "content_link": "https://developer.augmented.city/media/video/Mary_O_World_News_Tonight.mp4"
