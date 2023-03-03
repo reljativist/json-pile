@@ -41,8 +41,8 @@
   },
   {
     "image_id": "3b8811fd-2801-4c85-887f-489e47f99faf",
-    "width": 0.5,
-    "height": 0.5,
+    "width": 0.1,
+    "height": 0.1,
     "content_id": "presentation",
     "content_type": "video",
     "content_width" : 0.1,
@@ -51,8 +51,8 @@
   },
   {
     "image_id": "861ed4ce-bcdd-4ee7-ba88-f243d8d344ef",
-    "width": 0.5,
-    "height": 0.5,
+    "width": 0.1,
+    "height": 0.1,
     "content_width" : 0.1,
     "content_id": "presentation",
     "content_type": "video",
