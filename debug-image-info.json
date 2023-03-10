@@ -25,35 +25,36 @@
   },
   {
     "image_id": "22c12bcb-41fd-441b-8cc0-023df768c322",
-    "width": 0.5,
-    "height": 0.5,
+    "width": 0.15,
+    "height": 0.15,
+    "content_width" : 0.15,
     "content_id": "presentation",
     "content_type": "video",
     "content_link": "https://developer.augmented.city/media/video/presentation.mp4"
   },
   {
     "image_id": "cb2627c9-7aeb-4e77-84af-7d23f22af3ad",
-    "width": 0.5,
-    "height": 0.5,
+    "width": 0.15,
+    "height": 0.15,
+    "content_width" : 0.15,
     "content_id": "presentation",
     "content_type": "video",
     "content_link": "https://developer.augmented.city/media/video/rzhdvk.mp4"
   },
   {
     "image_id": "3b8811fd-2801-4c85-887f-489e47f99faf",
-    "width": 0.1,
-    "height": 0.1,
-    "content_width" : 0.1,
-    "content_height" : 0.1,
+    "width": 0.15,
+    "height": 0.15,
+    "content_width" : 0.15,
     "content_id": "cocacola",
     "content_type": "model",
     "content_link": "https://developer.augmented.city/media/video/moscow.mp4"
   },
   {
     "image_id": "861ed4ce-bcdd-4ee7-ba88-f243d8d344ef",
-    "width": 0.1,
-    "height": 0.1,
-    "content_width" : 0.1,
+    "width": 0.15,
+    "height": 0.15,
+    "content_width" : 0.15,
     "content_id": "presentation",
     "content_type": "video",
     "content_link": "https://developer.augmented.city/media/video/Mary_O_World_News_Tonight.mp4"
