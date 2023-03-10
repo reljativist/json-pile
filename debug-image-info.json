@@ -43,6 +43,8 @@
     "image_id": "3b8811fd-2801-4c85-887f-489e47f99faf",
     "width": 0.1,
     "height": 0.1,
+    "content_width" : 0.1,
+    "content_height" : 0.1,
     "content_id": "cocacola",
     "content_type": "model",
     "content_link": "https://developer.augmented.city/media/video/moscow.mp4"
