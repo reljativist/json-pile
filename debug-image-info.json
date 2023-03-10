@@ -28,8 +28,8 @@
     "width": 0.15,
     "height": 0.15,
     "content_width" : 0.15,
-    "content_id": "presentation",
-    "content_type": "video",
+    "content_id": "cocacola",
+    "content_type": "model",
     "content_link": "https://developer.augmented.city/media/video/presentation.mp4"
   },
   {
@@ -46,8 +46,8 @@
     "width": 0.15,
     "height": 0.15,
     "content_width" : 0.15,
-    "content_id": "cocacola",
-    "content_type": "model",
+    "content_id": "moscow",
+    "content_type": "video",
     "content_link": "https://developer.augmented.city/media/video/moscow.mp4"
   },
   {
