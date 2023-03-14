@@ -7,7 +7,6 @@
       {
          "id": "moscow",
          "type": "video",
-         "link": "https://developer.augmented.city/media/video/moscow.mp4"
       }
   },
   {
@@ -18,7 +17,6 @@
       {
          "id": "rzhdvk",
          "type": "video",
-         "link": "https://developer.augmented.city/media/video/rzhdvk.mp4",
          "width": 0.15
       }
   },
@@ -30,7 +28,6 @@
       {
          "id": "presentation",
          "type": "video",
-         "link": "https://developer.augmented.city/media/video/presentation.mp4",
          "width": 0.15
       }
   },
@@ -53,7 +50,6 @@
       {
          "id": "rzhdvk",
          "type": "video",
-         "link": "https://developer.augmented.city/media/video/rzhdvk.mp4",
          "width": 0.15
       }
   },
@@ -65,7 +61,6 @@
       {
          "id": "moscow",
          "type": "video",
-         "link": "https://developer.augmented.city/media/video/moscow.mp4",
          "width": 0.15
       }
   },
@@ -77,7 +72,6 @@
       {
          "id": "maryo",
          "type": "video",
-         "link": "https://developer.augmented.city/media/video/Mary_O_World_News_Tonight.mp4",
          "width": 0.15
       }
   }
