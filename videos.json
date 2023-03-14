@@ -6,7 +6,7 @@
     "created_date":1670017810306,
     "id":"moscow",
     "name":"test",
-    "preview_url":"",
+    "preview_url":"https://reljativist.github.io/json-pile/images/moscow_preview.png",
     "refs":
       [
         {
@@ -23,7 +23,7 @@
     "created_date":1670017810306,
     "id":"rzhdvk",
     "name":"test",
-    "preview_url":"",
+    "preview_url":"https://reljativist.github.io/json-pile/images/rzhdvk_preview.png",
     "refs":
       [
         {
@@ -40,7 +40,7 @@
     "created_date":1670017810306,
     "id":"presentation",
     "name":"test",
-    "preview_url":"",
+    "preview_url":"https://reljativist.github.io/json-pile/images/presentation_preview.png",
     "refs":
       [
         {
@@ -57,12 +57,12 @@
     "created_date":1670017810306,
     "id":"maryo",
     "name":"test",
-    "preview_url":"",
+    "preview_url":"https://reljativist.github.io/json-pile/images/maryo_preview.png",
     "refs":
       [
         {
           "platform":"any",
-          "url":"https://developer.augmented.city/media/images/e87c1ba7-e8de-4379-a16d-f78bc8b1dd7c.png"
+          "url":"https://developer.augmented.city/media/video/Mary_O_World_News_Tonight.mp4"
           }
       ],
     "type":"video"
