@@ -3,60 +3,82 @@
     "image_id": "acbb3ac3-f03f-4c88-a42b-9174bf3acdf7",
     "width": 0.2,
     "height": 0.1125,
-    "content_id": "moscow",
-    "content_type": "video",
-    "content_link": "https://developer.augmented.city/media/video/moscow.mp4"
+    "content_params": 
+      {
+         "id": "moscow",
+         "type": "video",
+         "link": "https://developer.augmented.city/media/video/moscow.mp4"
+      }
   },
   {
     "image_id": "d0472072-f480-4250-9250-3c9c1fea6f0d",
     "width": 0.2,
     "height": 0.1125,
-    "content_id": "rzhdvk",
-    "content_type": "video",
-    "content_link": "https://developer.augmented.city/media/video/rzhdvk.mp4"
+    "content_params": 
+      {
+         "id": "rzhdvk",
+         "type": "video",
+         "link": "https://developer.augmented.city/media/video/rzhdvk.mp4",
+         "width": 0.15
+      }
   },
   {
     "image_id": "d5c65486-8de1-4df7-ad11-a189c6eed07f",
     "width": 0.2,
     "height": 0.1125,
-    "content_id": "presentation",
-    "content_type": "video",
-    "content_link": "https://developer.augmented.city/media/video/presentation.mp4"
+    "content_params": 
+      {
+         "id": "presentation",
+         "type": "video",
+         "link": "https://developer.augmented.city/media/video/presentation.mp4",
+         "width": 0.15
+      }
   },
   {
     "image_id": "22c12bcb-41fd-441b-8cc0-023df768c322",
     "width": 0.15,
     "height": 0.15,
-    "content_width" : 0.15,
-    "content_id": "cocacola",
-    "content_type": "3d",
-    "content_link": "https://developer.augmented.city/media/video/presentation.mp4"
+    "content_params": 
+      {
+         "id": "cocacola",
+         "type": "3d",
+         "scale": 0.15
+      }
   },
   {
     "image_id": "cb2627c9-7aeb-4e77-84af-7d23f22af3ad",
     "width": 0.15,
     "height": 0.15,
-    "content_width" : 0.15,
-    "content_id": "presentation",
-    "content_type": "video",
-    "content_link": "https://developer.augmented.city/media/video/rzhdvk.mp4"
+    "content_params": 
+      {
+         "id": "rzhdvk",
+         "type": "video",
+         "link": "https://developer.augmented.city/media/video/rzhdvk.mp4",
+         "width": 0.15
+      }
   },
   {
     "image_id": "3b8811fd-2801-4c85-887f-489e47f99faf",
     "width": 0.15,
     "height": 0.15,
-    "content_width" : 0.15,
-    "content_id": "moscow",
-    "content_type": "video",
-    "content_link": "https://developer.augmented.city/media/video/moscow.mp4"
+    "content_params": 
+      {
+         "id": "moscow",
+         "type": "video",
+         "link": "https://developer.augmented.city/media/video/moscow.mp4",
+         "width": 0.15
+      }
   },
   {
     "image_id": "861ed4ce-bcdd-4ee7-ba88-f243d8d344ef",
     "width": 0.15,
     "height": 0.15,
-    "content_width" : 0.15,
-    "content_id": "presentation",
-    "content_type": "video",
-    "content_link": "https://developer.augmented.city/media/video/Mary_O_World_News_Tonight.mp4"
+    "content_params": 
+      {
+         "id": "maryo",
+         "type": "video",
+         "link": "https://developer.augmented.city/media/video/Mary_O_World_News_Tonight.mp4",
+         "width": 0.15
+      }
   }
 ]
